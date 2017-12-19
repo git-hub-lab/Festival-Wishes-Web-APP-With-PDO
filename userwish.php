@@ -2,6 +2,7 @@
 
 include("db.php");
 
+
 if(isset($_GET['str']))
 {
  $str = $_GET['str'];

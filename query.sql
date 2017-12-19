@@ -6,4 +6,3 @@ CREATE TABLE `event_wishes` (
   UNIQUE KEY `title` (`title`),
   UNIQUE KEY `str` (`str`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
