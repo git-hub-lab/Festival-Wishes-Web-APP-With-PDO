@@ -1,6 +1,6 @@
 # Festival-Wishes-Web-APP-With-PDO
 
-Festival Wishes Web APP - Name Wishing Web APP with PHP PDO
+Festival Wishes Web APP - Create Name Wishing Web APP with PHP PDO
 
 ## Requirements
 
@@ -24,7 +24,7 @@ CREATE TABLE `event_wishes` (
 
 - Connect your Database by adding the DB login details on `db.php`
 - Update your Name Wish APP URL on `index.php` and `userwish.php` File
-- It having the Back-End only for Fron-End follow this Respo - <a href="https://github.com/mskian/happy-New-year-Wishing-web-app">Happy New year Wishing web app</a>to Cook Front-End for your Name Wishing web app
+- It having the Back-End only for Fron-End follow this Respo - <a href="https://github.com/mskian/happy-New-year-Wishing-web-app">Happy New year Wishing web app</a> to Cook Front-End for your Name Wishing web app
 - That's all Done - Happy Event :-)
 
 
